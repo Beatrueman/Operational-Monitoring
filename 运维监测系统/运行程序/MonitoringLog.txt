@@ -1,0 +1,949 @@
+******正在检测电脑相关信息功能******
+2023-03-09 05:34:56
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1678311442.374756, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=18080.828125, system=14407.218750000466, idle=2651980.2343749995, interrupt=978.203125, dpc=794.0)
+当前cpu总使用率：4.0%
+内存使用情况:svmem(total=33974296576, available=18355871744, percent=46.0, used=15618424832, free=18355871744)
+磁盘使用情况:sdiskusage(total=446228852736, used=148196548608, free=298032304128, percent=33.2)
+正在运行的PID:[0, 4, 140, 172, 788, 828, 832, 908, 916, 1068, 1076, 1136, 1164, 1204, 1216, 1244, 1312, 1372, 1392, 1400, 1404, 1428, 1520, 1552, 1608, 1632, 1716, 1808, 1816, 1828, 1832, 1848, 1860, 1868, 1884, 2008, 2040, 2136, 2176, 2188, 2208, 2236, 2240, 2244, 2256, 2384, 2432, 2440, 2452, 2496, 2508, 2516, 2632, 2656, 2668, 2688, 2752, 2772, 2788, 2796, 2864, 2936, 3044, 3080, 3316, 3428, 3484, 3552, 3620, 3728, 3760, 3848, 3912, 3992, 4008, 4072, 4080, 4172, 4188, 4196, 4208, 4348, 4592, 4604, 4652, 4860, 4968, 4984, 5080, 5128, 5256, 5264, 5296, 5336, 5356, 5416, 5480, 5720, 5756, 5772, 5868, 5888, 5904, 5912, 5920, 5928, 5936, 5944, 5952, 5960, 5972, 5980, 5988, 5996, 6012, 6020, 6028, 6036, 6056, 6080, 6140, 6196, 6216, 6236, 6292, 6372, 6396, 6408, 6416, 6424, 6432, 6440, 6456, 6492, 6512, 6528, 6536, 6556, 6608, 6616, 6688, 6712, 6804, 6812, 6836, 6844, 7076, 7208, 7216, 7232, 7248, 7296, 7340, 7380, 7772, 7880, 8124, 8136, 8224, 8480, 8556, 8684, 8776, 8792, 8912, 9092, 9284, 9360, 9368, 9376, 9608, 9672, 9692, 9744, 9760, 9884, 9940, 9964, 10132, 10140, 10172, 10188, 10292, 10296, 10304, 10312, 10620, 10664, 10772, 10792, 10920, 11068, 11120, 11132, 11220, 11396, 11432, 11532, 11628, 11656, 11740, 11748, 11760, 11848, 11888, 12028, 12080, 12284, 12432, 12464, 13268, 13304, 13384, 13476, 13528, 13560, 13656, 13664, 13684, 13944, 13992, 14048, 14068, 14152, 14260, 14284, 14320, 14428, 14504, 14512, 14668, 14688, 14772, 14796, 14844, 14908, 14980, 15068, 15124, 15304, 15416, 15492, 15568, 15648, 15712, 16268, 16304, 16404, 16488, 16604, 16676, 16860, 16936, 16976, 17080, 17160, 17252, 17272, 17488, 17728, 17764, 18144, 18256, 18276, 18304, 18392, 18404, 18616, 18624, 18756, 18912, 18936, 18980, 19108, 19448, 19452, 19700, 19756, 19844, 19900, 20028, 20164, 20288, 20296, 20344, 20544, 20736, 20908, 21012, 21160, 21220, 21516, 21656, 21796, 21864, 21908, 22052, 22176, 22252, 22412, 22704, 23192, 23388]
+
+
+******正在检测文件目录变化******
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery
+C:\Users\李逸雄\Desktop\123\MP3Stego已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42
+C:\Users\李逸雄\Desktop\123\1000.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\1000.txt
+C:\Users\李逸雄\Desktop\123\222.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\222.txt
+C:\Users\李逸雄\Desktop\123\Burp Suite Community Edition.lnk已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Burp Suite Community Edition.lnk
+C:\Users\李逸雄\Desktop\123\PhpStorm 2022.2.3.lnk已被重命名为 C:\Users\李逸雄\Desktop\ctf4\PhpStorm 2022.2.3.lnk
+C:\Users\李逸雄\Desktop\123\ToDesk.lnk已被重命名为 C:\Users\李逸雄\Desktop\ctf4\ToDesk.lnk
+C:\Users\李逸雄\Desktop\123\Wireshark.lnk已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Wireshark.lnk
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\License.rtf已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\License.rtf
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\unins000.dat已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\unins000.dat
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\unins000.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\unins000.exe
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.chm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.chm
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.exe
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\archpr4.log已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\archpr4.log
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\chinese_simp.lng已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\chinese_simp.lng
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\digits.chr已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\digits.chr
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.chr已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.chr
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.dic已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.dic
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.lng已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.lng
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.chr已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.chr
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.dic已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.dic
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.lng已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.lng
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.chr已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.chr
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.dic已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.dic
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.lng已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.lng
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\special.chr已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\special.chr
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\新建 文本文档.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\新建 文本文档.txt
+C:\Users\李逸雄\Desktop\123\Elcomsoft Password Recovery\Advanced Archive Password Recovery\说明.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\Elcomsoft Password Recovery\Advanced Archive Password Recovery\说明.txt
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decode.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decode.exe
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encode.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encode.exe
+C:\Users\李逸雄\Desktop\123\MP3Stego\hidden_text.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\hidden_text.txt
+C:\Users\李逸雄\Desktop\123\MP3Stego\MP3Stego.sln已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\MP3Stego.sln
+C:\Users\李逸雄\Desktop\123\MP3Stego\README.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\README.txt
+C:\Users\李逸雄\Desktop\123\MP3Stego\svega.wav已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\svega.wav
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\tables已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\tables
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\common.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\common.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\common.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\common.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Decode.aps已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Decode.aps
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\decode.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\decode.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Decode.rc已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Decode.rc
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Decode.vcproj已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Decode.vcproj
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Decode.vcxproj已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Decode.vcxproj
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Decode.vcxproj.filters已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Decode.vcxproj.filters
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\decoder.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\decoder.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\dewindow已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\dewindow
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\error.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\error.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\huffdec已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\huffdec
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\huffman.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\huffman.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\huffman.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\huffman.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\ieeefloat.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\ieeefloat.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\ieeefloat.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\ieeefloat.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\musicout.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\musicout.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\portableio.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\portableio.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\portableio.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\portableio.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\Readme.1st已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\Readme.1st
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\resource.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\resource.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\tables\dewindow已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\tables\dewindow
+C:\Users\李逸雄\Desktop\123\MP3Stego\Decoder\tables\huffdec已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Decoder\tables\huffdec
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\bitstream.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\bitstream.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\bitstream.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\bitstream.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\Encode.aps已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\Encode.aps
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\Encode.rc已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\Encode.rc
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\Encode.vcproj已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\Encode.vcproj
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\Encode.vcxproj已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\Encode.vcxproj
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\Encode.vcxproj.filters已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\Encode.vcxproj.filters
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\error.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\error.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\fft.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\fft.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\fft.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\fft.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\formatBitstream.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\formatBitstream.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\formatBitstream.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\formatBitstream.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\huffman.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\huffman.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\huffman.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\huffman.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\ieeefloat.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\ieeefloat.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\ieeefloat.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\ieeefloat.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3bitstream.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3bitstream.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3bitstream.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3bitstream.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3loop.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3loop.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3loop.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3loop.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3mdct.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3mdct.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3mdct.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3mdct.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3psy.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3psy.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3psy.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3psy.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3subband.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3subband.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\l3subband.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\l3subband.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\layer3.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\layer3.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\layer3.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\layer3.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\main.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\main.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\MP3_Stego.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\MP3_Stego.txt
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\portableio.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\portableio.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\portableio.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\portableio.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\psy_data.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\psy_data.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\README.8hz-mp3已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\README.8hz-mp3
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\README.Development已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\README.Development
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\reservoir.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\reservoir.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\reservoir.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\reservoir.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\resource.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\resource.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\sqrttab.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\sqrttab.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\tables.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\tables.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\tables.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\tables.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\types.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\types.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\wave.c已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\wave.c
+C:\Users\李逸雄\Desktop\123\MP3Stego\Encoder\wave.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\Encoder\wave.h
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1cb0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1cb0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1cb1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1cb1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1cb2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1cb2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1CB4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1CB4
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1CB5已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1CB5
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1CB6已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1CB6
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1th0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1th0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1th1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1th1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1th2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1th2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1TH4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1TH4
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1TH5已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1TH5
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\1TH6已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\1TH6
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2cb0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2cb0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2cb1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2cb1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2cb2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2cb2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2CB4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2CB4
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2CB5已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2CB5
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2CB6已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2CB6
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2th0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2th0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2th1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2th1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2th2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2th2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2TH4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2TH4
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2TH5已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2TH5
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\2TH6已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\2TH6
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\absthr_0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\absthr_0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\absthr_1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\absthr_1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\absthr_2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\absthr_2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\alloc_0已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\alloc_0
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\alloc_1已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\alloc_1
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\alloc_2已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\alloc_2
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\alloc_3已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\alloc_3
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\ALLOC_4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\ALLOC_4
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\dewindow已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\dewindow
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\enwindow已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\enwindow
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\HUFFCODE已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\HUFFCODE
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\huffdec已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\huffdec
+C:\Users\李逸雄\Desktop\123\MP3Stego\tables\PSY_DATA已被重命名为 C:\Users\李逸雄\Desktop\ctf4\MP3Stego\tables\PSY_DATA
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\commithash.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\commithash.txt
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\bridgegraph.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\bridgegraph.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\bridgelist.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\bridgelist.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\bridgemain.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\bridgemain.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\x32bridge.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\x32bridge.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\x32dbg.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\x32dbg.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\x64bridge.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\x64bridge.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\x64dbg.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\x64dbg.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_dbgfunctions.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_dbgfunctions.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_plugins.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_plugins.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_plugin_types.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_plugin_types.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_argument.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_argument.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_assembler.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_assembler.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_bookmark.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_bookmark.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_comment.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_comment.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_debug.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_debug.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_flag.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_flag.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_function.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_function.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_gui.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_gui.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_label.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_label.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_memory.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_memory.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_misc.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_misc.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_module.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_module.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_pattern.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_pattern.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_register.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_register.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_stack.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_stack.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_symbol.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_symbol.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_config.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_config.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64dbg.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64dbg.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4file.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4file.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4hc.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4hc.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse.h已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse.h
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.a已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.a
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.lib
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\errordb.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\errordb.txt
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\exceptiondb.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\exceptiondb.txt
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\mnemdb.json已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\mnemdb.json
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\ntstatusdb.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\ntstatusdb.txt
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\winconstants.txt已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\winconstants.txt
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64dbg.chm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64dbg.chm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x96dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x96dbg.exe
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\index.theme已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\index.theme
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\style.css已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\style.css
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\style.ini已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\style.ini
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons\functions.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons\functions.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons\source.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons\source.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons\strings.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons\strings.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons\trace.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons\trace.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\icons\variables.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\icons\variables.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed-on.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed-on.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open-on.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open-on.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_focus.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_focus.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_focus.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_focus.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-hover.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-hover.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-pressed.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-pressed.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hmovetoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hmovetoolbar.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hsepartoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hsepartoolbar.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_focus.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_focus.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\sizegrip.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\sizegrip.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-end.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-end.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-more.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-more.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-vline.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-vline.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\transparent.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\transparent.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\undock.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\undock.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow_disabled.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vmovetoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vmovetoolbar.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vsepartoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vsepartoolbar.png
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_af.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_af.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ar.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ar.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_bg.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_bg.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_bs.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_bs.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ca.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ca.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ceb.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ceb.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_cs.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_cs.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_da.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_da.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_de.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_de.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_el.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_el.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_es_ES.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_es_ES.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_fa.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_fa.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_fi.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_fi.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_fil.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_fil.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_fr.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_fr.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_he.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_he.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_hi.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_hi.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_hu.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_hu.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_id.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_id.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_it.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_it.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ja.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ja.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ka.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ka.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ko.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ko.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_lt.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_lt.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_nl.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_nl.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_no.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_no.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_pl.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_pl.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_BR.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_BR.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_PT.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_PT.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ro.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ro.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_ru.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_ru.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_si_LK.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_si_LK.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_sr.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_sr.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_sv_SE.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_sv_SE.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_th.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_th.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_tr.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_tr.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_uk.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_uk.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_vi.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_vi.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_CN.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_CN.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_TW.qm已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_TW.qm
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\db已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\db
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\GleeBug已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\GleeBug
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\iconengines已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\iconengines
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\memdumps已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\memdumps
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\platforms已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\platforms
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\plugins已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\plugins
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\StaticEngine已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\StaticEngine
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\asmjit.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\asmjit.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\dbghelp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\dbghelp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\DeviceNameResolver.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\DeviceNameResolver.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\jansson.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\jansson.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\ldconvert.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\ldconvert.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\libeay32.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\libeay32.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\LLVMDemangle.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\LLVMDemangle.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\loaddll.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\loaddll.exe
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\lz4.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\lz4.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\msdia140.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\msdia140.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\msvcp120.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\msvcp120.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\msvcr120.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\msvcr120.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5Core.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5Core.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5Gui.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5Gui.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5Network.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5Network.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5Svg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5Svg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5Widgets.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5Widgets.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Qt5WinExtras.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Qt5WinExtras.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\Scylla.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\Scylla.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\ssleay32.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\ssleay32.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32bridge.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32dbg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32dbg.exe
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32dbg.ini已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32dbg.ini
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32gui.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32gui.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32_bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32_bridge.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\x32_dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\x32_dbg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\XEDParse.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\XEDParse.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.bak已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.bak
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.cmdline已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.cmdline
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\GleeBug\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\GleeBug\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\iconengines\qsvgicon.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\iconengines\qsvgicon.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qgif.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qgif.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qicns.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qicns.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qico.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qico.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qjpeg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qjpeg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qsvg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qsvg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qtga.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qtga.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qtiff.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qtiff.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qwbmp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qwbmp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\imageformats\qwebp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\imageformats\qwebp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\platforms\qwindows.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\platforms\qwindows.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x32\StaticEngine\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x32\StaticEngine\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\db已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\db
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\GleeBug已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\GleeBug
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\iconengines已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\iconengines
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\memdumps已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\memdumps
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\platforms已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\platforms
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\plugins已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\plugins
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\StaticEngine已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\StaticEngine
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\asmjit.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\asmjit.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\dbghelp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\dbghelp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\DeviceNameResolver.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\DeviceNameResolver.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\jansson.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\jansson.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\ldconvert.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\ldconvert.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\libeay32.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\libeay32.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\LLVMDemangle.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\LLVMDemangle.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\loaddll.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\loaddll.exe
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\lz4.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\lz4.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\msdia140.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\msdia140.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\msvcp120.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\msvcp120.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\msvcr120.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\msvcr120.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5Core.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5Core.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5Gui.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5Gui.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5Network.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5Network.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5Svg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5Svg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5Widgets.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5Widgets.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Qt5WinExtras.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Qt5WinExtras.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\Scylla.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\Scylla.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\ssleay32.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\ssleay32.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64bridge.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64dbg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64dbg.exe
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64dbg.ini已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64dbg.ini
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64gui.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64gui.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64_bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64_bridge.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\x64_dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\x64_dbg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\XEDParse.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\XEDParse.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\GleeBug\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\GleeBug\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\iconengines\qsvgicon.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\iconengines\qsvgicon.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qgif.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qgif.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qicns.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qicns.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qico.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qico.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qjpeg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qjpeg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qsvg.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qsvg.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qtga.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qtga.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qtiff.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qtiff.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qwbmp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qwbmp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\imageformats\qwebp.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\imageformats\qwebp.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\platforms\qwindows.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\platforms\qwindows.dll
+C:\Users\李逸雄\Desktop\123\snapshot_2022-10-28_15-42\release\x64\StaticEngine\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\ctf4\snapshot_2022-10-28_15-42\release\x64\StaticEngine\TitanEngine.dll
+C:\Users\李逸雄\Desktop\123已被重命名为 C:\Users\李逸雄\Desktop\ctf4
+C:\Users\李逸雄\Desktop\ctf4已被修改
+******正在检测电脑相关信息功能******
+2023-03-09 05:34:56
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1678311442.374756, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=18101.625, system=14417.187500000466, idle=2652650.1249999995, interrupt=978.984375, dpc=794.375)
+当前cpu总使用率：4.2%
+内存使用情况:svmem(total=33974296576, available=18314096640, percent=46.1, used=15660199936, free=18314096640)
+磁盘使用情况:sdiskusage(total=446228852736, used=148207480832, free=298021371904, percent=33.2)
+正在运行的PID:[0, 4, 140, 172, 788, 828, 832, 908, 916, 1068, 1076, 1136, 1164, 1204, 1216, 1244, 1312, 1372, 1392, 1400, 1404, 1428, 1520, 1552, 1608, 1632, 1716, 1808, 1816, 1828, 1832, 1848, 1860, 1868, 1884, 2008, 2040, 2136, 2176, 2188, 2208, 2236, 2240, 2244, 2256, 2384, 2432, 2440, 2452, 2496, 2508, 2516, 2632, 2656, 2668, 2688, 2752, 2772, 2788, 2796, 2864, 2936, 3080, 3316, 3428, 3484, 3552, 3620, 3728, 3760, 3848, 3912, 3992, 4008, 4072, 4080, 4172, 4188, 4196, 4208, 4348, 4592, 4604, 4652, 4860, 4968, 4984, 5080, 5128, 5256, 5264, 5288, 5296, 5336, 5356, 5416, 5480, 5720, 5756, 5772, 5868, 5888, 5904, 5912, 5920, 5928, 5936, 5944, 5952, 5960, 5972, 5980, 5988, 5996, 6012, 6020, 6028, 6036, 6056, 6140, 6196, 6216, 6236, 6292, 6372, 6396, 6408, 6416, 6424, 6432, 6440, 6456, 6492, 6512, 6528, 6536, 6556, 6608, 6616, 6688, 6712, 6804, 6812, 6836, 6844, 7076, 7208, 7216, 7232, 7248, 7296, 7340, 7380, 7772, 7880, 8124, 8136, 8224, 8480, 8556, 8684, 8776, 8792, 8912, 9092, 9284, 9360, 9368, 9376, 9608, 9672, 9692, 9744, 9760, 9884, 9940, 9964, 10012, 10132, 10140, 10172, 10188, 10292, 10296, 10304, 10312, 10664, 10772, 10792, 10920, 11068, 11120, 11132, 11220, 11396, 11432, 11532, 11628, 11656, 11740, 11748, 11760, 11848, 11888, 12028, 12080, 12284, 12432, 12464, 13268, 13304, 13384, 13476, 13528, 13560, 13656, 13664, 13684, 13944, 13992, 14048, 14068, 14152, 14260, 14284, 14320, 14364, 14428, 14504, 14512, 14668, 14688, 14772, 14792, 14796, 14844, 14908, 14960, 15068, 15124, 15304, 15416, 15492, 15568, 15648, 15712, 15872, 16268, 16304, 16404, 16488, 16604, 16676, 16860, 16936, 16976, 17080, 17160, 17252, 17272, 17488, 17728, 17764, 18144, 18276, 18304, 18392, 18616, 18624, 18756, 18912, 18936, 18980, 19108, 19448, 19452, 19700, 19756, 19844, 19900, 20028, 20164, 20288, 20296, 20344, 20544, 20736, 21012, 21160, 21220, 21516, 21656, 21864, 21908, 22176, 22252, 22412, 22896, 22904, 22936, 23192]
+
+
+******正在检测文件目录变化******
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery
+C:\Users\李逸雄\Desktop\CTF\MP3Stego已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42
+C:\Users\李逸雄\Desktop\CTF\1000.txt已被重命名为 C:\Users\李逸雄\Desktop\111\1000.txt
+C:\Users\李逸雄\Desktop\CTF\222.txt已被重命名为 C:\Users\李逸雄\Desktop\111\222.txt
+C:\Users\李逸雄\Desktop\CTF\Burp Suite Community Edition.lnk已被重命名为 C:\Users\李逸雄\Desktop\111\Burp Suite Community Edition.lnk
+C:\Users\李逸雄\Desktop\CTF\PhpStorm 2022.2.3.lnk已被重命名为 C:\Users\李逸雄\Desktop\111\PhpStorm 2022.2.3.lnk
+C:\Users\李逸雄\Desktop\CTF\ToDesk.lnk已被重命名为 C:\Users\李逸雄\Desktop\111\ToDesk.lnk
+C:\Users\李逸雄\Desktop\CTF\Wireshark.lnk已被重命名为 C:\Users\李逸雄\Desktop\111\Wireshark.lnk
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\License.rtf已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\License.rtf
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\unins000.dat已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\unins000.dat
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\unins000.exe已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\unins000.exe
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.chm已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.chm
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.exe已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\ARCHPR.exe
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\archpr4.log已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\archpr4.log
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\chinese_simp.lng已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\chinese_simp.lng
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\digits.chr已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\digits.chr
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.chr已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.chr
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.dic已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.dic
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.lng已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\english.lng
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.chr已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.chr
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.dic已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.dic
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.lng已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\german.lng
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.chr已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.chr
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.dic已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.dic
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.lng已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\russian.lng
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\special.chr已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\special.chr
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\新建 文本文档.txt已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\新建 文本文档.txt
+C:\Users\李逸雄\Desktop\CTF\Elcomsoft Password Recovery\Advanced Archive Password Recovery\说明.txt已被重命名为 C:\Users\李逸雄\Desktop\111\Elcomsoft Password Recovery\Advanced Archive Password Recovery\说明.txt
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decode.exe已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decode.exe
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encode.exe已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encode.exe
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\hidden_text.txt已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\hidden_text.txt
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\MP3Stego.sln已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\MP3Stego.sln
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\README.txt已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\README.txt
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\svega.wav已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\svega.wav
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\tables已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\tables
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\common.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\common.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\common.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\common.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Decode.aps已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Decode.aps
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\decode.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\decode.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Decode.rc已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Decode.rc
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Decode.vcproj已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Decode.vcproj
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Decode.vcxproj已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Decode.vcxproj
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Decode.vcxproj.filters已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Decode.vcxproj.filters
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\decoder.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\decoder.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\dewindow已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\dewindow
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\error.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\error.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\huffdec已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\huffdec
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\huffman.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\huffman.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\huffman.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\huffman.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\ieeefloat.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\ieeefloat.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\ieeefloat.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\ieeefloat.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\musicout.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\musicout.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\portableio.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\portableio.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\portableio.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\portableio.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\Readme.1st已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\Readme.1st
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\resource.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\resource.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\tables\dewindow已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\tables\dewindow
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Decoder\tables\huffdec已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Decoder\tables\huffdec
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\bitstream.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\bitstream.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\bitstream.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\bitstream.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\Encode.aps已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\Encode.aps
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\Encode.rc已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\Encode.rc
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\Encode.vcproj已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\Encode.vcproj
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\Encode.vcxproj已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\Encode.vcxproj
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\Encode.vcxproj.filters已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\Encode.vcxproj.filters
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\error.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\error.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\fft.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\fft.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\fft.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\fft.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\formatBitstream.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\formatBitstream.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\formatBitstream.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\formatBitstream.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\huffman.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\huffman.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\huffman.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\huffman.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\ieeefloat.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\ieeefloat.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\ieeefloat.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\ieeefloat.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3bitstream.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3bitstream.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3bitstream.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3bitstream.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3loop.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3loop.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3loop.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3loop.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3mdct.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3mdct.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3mdct.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3mdct.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3psy.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3psy.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3psy.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3psy.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3subband.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3subband.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\l3subband.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\l3subband.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\layer3.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\layer3.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\layer3.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\layer3.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\main.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\main.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\MP3_Stego.txt已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\MP3_Stego.txt
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\portableio.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\portableio.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\portableio.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\portableio.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\psy_data.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\psy_data.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\README.8hz-mp3已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\README.8hz-mp3
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\README.Development已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\README.Development
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\reservoir.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\reservoir.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\reservoir.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\reservoir.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\resource.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\resource.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\sqrttab.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\sqrttab.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\tables.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\tables.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\tables.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\tables.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\types.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\types.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\wave.c已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\wave.c
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\Encoder\wave.h已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\Encoder\wave.h
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1cb0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1cb0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1cb1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1cb1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1cb2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1cb2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1CB4已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1CB4
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1CB5已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1CB5
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1CB6已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1CB6
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1th0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1th0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1th1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1th1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1th2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1th2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1TH4已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1TH4
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1TH5已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1TH5
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\1TH6已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\1TH6
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2cb0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2cb0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2cb1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2cb1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2cb2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2cb2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2CB4已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2CB4
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2CB5已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2CB5
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2CB6已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2CB6
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2th0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2th0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2th1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2th1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2th2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2th2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2TH4已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2TH4
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2TH5已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2TH5
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\2TH6已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\2TH6
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\absthr_0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\absthr_0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\absthr_1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\absthr_1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\absthr_2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\absthr_2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\alloc_0已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\alloc_0
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\alloc_1已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\alloc_1
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\alloc_2已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\alloc_2
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\alloc_3已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\alloc_3
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\ALLOC_4已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\ALLOC_4
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\dewindow已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\dewindow
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\enwindow已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\enwindow
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\HUFFCODE已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\HUFFCODE
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\huffdec已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\huffdec
+C:\Users\李逸雄\Desktop\CTF\MP3Stego\tables\PSY_DATA已被重命名为 C:\Users\李逸雄\Desktop\111\MP3Stego\tables\PSY_DATA
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\commithash.txt已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\commithash.txt
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\bridgegraph.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\bridgegraph.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\bridgelist.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\bridgelist.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\bridgemain.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\bridgemain.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\x32bridge.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\x32bridge.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\x32dbg.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\x32dbg.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\x64bridge.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\x64bridge.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\x64dbg.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\x64dbg.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_dbgfunctions.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_dbgfunctions.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_plugins.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_plugins.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_plugin_types.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_plugin_types.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_argument.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_argument.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_assembler.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_assembler.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_bookmark.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_bookmark.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_comment.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_comment.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_debug.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_debug.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_flag.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_flag.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_function.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_function.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_gui.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_gui.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_label.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_label.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_memory.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_memory.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_misc.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_misc.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_module.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_module.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_pattern.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_pattern.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_register.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_register.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_stack.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_stack.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_symbol.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\_scriptapi_symbol.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\dbghelp\dbghelp_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\DeviceNameResolver\DeviceNameResolver_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_config.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_config.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64dbg.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x64dbg.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\jansson\jansson_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4file.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4file.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4hc.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4hc.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\lz4\lz4_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\TitanEngine\TitanEngine_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse.h已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse.h
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x64.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.a已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.a
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.lib已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\pluginsdk\XEDParse\XEDParse_x86.lib
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\errordb.txt已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\errordb.txt
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\exceptiondb.txt已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\exceptiondb.txt
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\mnemdb.json已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\mnemdb.json
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\ntstatusdb.txt已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\ntstatusdb.txt
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\winconstants.txt已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\winconstants.txt
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64dbg.chm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64dbg.chm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x96dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x96dbg.exe
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\index.theme已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\index.theme
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\style.css已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\style.css
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\style.ini已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\style.ini
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons\functions.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons\functions.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons\source.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons\source.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons\strings.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons\strings.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons\trace.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons\trace.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\icons\variables.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\icons\variables.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed-on.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed-on.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_closed.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open-on.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open-on.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\branch_open.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_checked_focus.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_focus.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_indeterminate_focus.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\checkbox_unchecked_focus.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-hover.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-hover.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-pressed.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close-pressed.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\close.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\down_arrow_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hmovetoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hmovetoolbar.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hsepartoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Hsepartoolbar.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\left_arrow_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_checked_focus.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_focus.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\radio_unchecked_focus.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\right_arrow_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\sizegrip.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\sizegrip.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-end.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-end.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-more.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-branch-more.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-vline.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\stylesheet-vline.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\transparent.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\transparent.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\undock.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\undock.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow_disabled.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\up_arrow_disabled.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vmovetoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vmovetoolbar.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vsepartoolbar.png已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\themes\Dark\rc\Vsepartoolbar.png
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_af.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_af.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ar.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ar.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_bg.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_bg.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_bs.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_bs.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ca.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ca.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ceb.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ceb.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_cs.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_cs.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_da.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_da.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_de.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_de.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_el.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_el.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_es_ES.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_es_ES.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_fa.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_fa.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_fi.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_fi.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_fil.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_fil.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_fr.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_fr.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_he.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_he.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_hi.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_hi.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_hu.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_hu.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_id.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_id.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_it.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_it.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ja.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ja.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ka.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ka.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ko.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ko.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_lt.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_lt.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_nl.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_nl.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_no.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_no.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_pl.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_pl.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_BR.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_BR.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_PT.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_pt_PT.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ro.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ro.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_ru.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_ru.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_si_LK.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_si_LK.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_sr.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_sr.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_sv_SE.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_sv_SE.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_th.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_th.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_tr.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_tr.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_uk.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_uk.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_vi.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_vi.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_CN.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_CN.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_TW.qm已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\translations\x64dbg_zh_TW.qm
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\db已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\db
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\GleeBug已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\GleeBug
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\iconengines已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\iconengines
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\memdumps已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\memdumps
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\platforms已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\platforms
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\plugins已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\plugins
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\StaticEngine已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\StaticEngine
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\asmjit.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\asmjit.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\dbghelp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\dbghelp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\DeviceNameResolver.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\DeviceNameResolver.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\jansson.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\jansson.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\ldconvert.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\ldconvert.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\libeay32.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\libeay32.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\LLVMDemangle.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\LLVMDemangle.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\loaddll.exe已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\loaddll.exe
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\lz4.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\lz4.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\msdia140.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\msdia140.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\msvcp120.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\msvcp120.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\msvcr120.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\msvcr120.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5Core.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5Core.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5Gui.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5Gui.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5Network.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5Network.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5Svg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5Svg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5Widgets.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5Widgets.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Qt5WinExtras.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Qt5WinExtras.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\Scylla.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\Scylla.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\ssleay32.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\ssleay32.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32bridge.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32dbg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32dbg.exe
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32dbg.ini已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32dbg.ini
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32gui.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32gui.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32_bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32_bridge.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\x32_dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\x32_dbg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\XEDParse.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\XEDParse.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.bak已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.bak
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.cmdline已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\db\jmp_or_nop (1).exe.dd32.cmdline
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\GleeBug\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\GleeBug\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\iconengines\qsvgicon.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\iconengines\qsvgicon.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qgif.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qgif.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qicns.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qicns.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qico.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qico.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qjpeg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qjpeg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qsvg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qsvg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qtga.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qtga.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qtiff.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qtiff.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qwbmp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qwbmp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\imageformats\qwebp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\imageformats\qwebp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\platforms\qwindows.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\platforms\qwindows.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x32\StaticEngine\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x32\StaticEngine\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\db已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\db
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\GleeBug已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\GleeBug
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\iconengines已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\iconengines
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\memdumps已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\memdumps
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\platforms已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\platforms
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\plugins已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\plugins
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\StaticEngine已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\StaticEngine
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\asmjit.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\asmjit.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\dbghelp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\dbghelp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\DeviceNameResolver.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\DeviceNameResolver.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\jansson.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\jansson.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\ldconvert.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\ldconvert.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\libeay32.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\libeay32.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\LLVMDemangle.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\LLVMDemangle.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\loaddll.exe已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\loaddll.exe
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\lz4.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\lz4.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\msdia140.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\msdia140.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\msvcp120.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\msvcp120.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\msvcr120.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\msvcr120.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5Core.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5Core.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5Gui.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5Gui.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5Network.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5Network.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5Svg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5Svg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5Widgets.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5Widgets.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Qt5WinExtras.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Qt5WinExtras.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\Scylla.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\Scylla.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\ssleay32.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\ssleay32.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64bridge.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64dbg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64dbg.exe已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64dbg.exe
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64dbg.ini已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64dbg.ini
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64gui.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64gui.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64_bridge.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64_bridge.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\x64_dbg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\x64_dbg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\XEDParse.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\XEDParse.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\GleeBug\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\GleeBug\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\iconengines\qsvgicon.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\iconengines\qsvgicon.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qgif.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qgif.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qicns.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qicns.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qico.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qico.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qjpeg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qjpeg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qsvg.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qsvg.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qtga.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qtga.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qtiff.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qtiff.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qwbmp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qwbmp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\imageformats\qwebp.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\imageformats\qwebp.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\platforms\qwindows.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\platforms\qwindows.dll
+C:\Users\李逸雄\Desktop\CTF\snapshot_2022-10-28_15-42\release\x64\StaticEngine\TitanEngine.dll已被重命名为 C:\Users\李逸雄\Desktop\111\snapshot_2022-10-28_15-42\release\x64\StaticEngine\TitanEngine.dll
+C:\Users\李逸雄\Desktop\CTF已被重命名为 C:\Users\李逸雄\Desktop\111
+C:\Users\李逸雄\Desktop\111已被修改
+******正在检测电脑相关信息功能******
+2023-03-09 05:34:56
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1678311442.374756, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=18135.859375, system=14434.531249999534, idle=2653736.578125, interrupt=980.359375, dpc=795.03125)
+当前cpu总使用率：3.6%
+内存使用情况:svmem(total=33974296576, available=17629511680, percent=48.1, used=16344784896, free=17629511680)
+磁盘使用情况:sdiskusage(total=446228852736, used=148218875904, free=298009976832, percent=33.2)
+正在运行的PID:[0, 4, 140, 172, 788, 828, 832, 908, 916, 1068, 1076, 1136, 1164, 1204, 1216, 1232, 1244, 1312, 1372, 1392, 1400, 1404, 1428, 1520, 1552, 1608, 1632, 1716, 1808, 1816, 1828, 1832, 1848, 1860, 1868, 1884, 2008, 2040, 2136, 2176, 2188, 2208, 2236, 2240, 2244, 2256, 2384, 2432, 2440, 2452, 2496, 2508, 2516, 2632, 2656, 2668, 2688, 2752, 2772, 2788, 2796, 2864, 2936, 3080, 3316, 3428, 3484, 3552, 3620, 3728, 3760, 3848, 3912, 3992, 4008, 4072, 4080, 4172, 4188, 4196, 4208, 4348, 4592, 4604, 4652, 4860, 4968, 4984, 5080, 5128, 5256, 5264, 5296, 5336, 5356, 5416, 5480, 5720, 5756, 5772, 5868, 5888, 5904, 5912, 5920, 5928, 5936, 5944, 5952, 5960, 5972, 5980, 5988, 5996, 6012, 6020, 6028, 6036, 6056, 6140, 6196, 6216, 6236, 6292, 6372, 6396, 6408, 6416, 6424, 6432, 6440, 6456, 6488, 6492, 6512, 6528, 6536, 6556, 6608, 6616, 6688, 6712, 6804, 6812, 6836, 6844, 7076, 7208, 7216, 7232, 7248, 7296, 7340, 7380, 7772, 7880, 8048, 8124, 8136, 8224, 8480, 8556, 8684, 8776, 8792, 8832, 8912, 9092, 9284, 9360, 9368, 9376, 9608, 9672, 9692, 9744, 9760, 9884, 9940, 9964, 10132, 10140, 10172, 10188, 10228, 10292, 10296, 10304, 10312, 10620, 10664, 10772, 10792, 10920, 11068, 11120, 11124, 11132, 11220, 11396, 11432, 11532, 11628, 11656, 11740, 11748, 11760, 11848, 11888, 12028, 12080, 12284, 12432, 12464, 13268, 13304, 13384, 13476, 13528, 13560, 13656, 13664, 13684, 13780, 13944, 13992, 14048, 14068, 14152, 14260, 14284, 14320, 14428, 14504, 14512, 14668, 14688, 14772, 14792, 14796, 14844, 14908, 15068, 15124, 15304, 15416, 15492, 15568, 15648, 15712, 16036, 16268, 16304, 16336, 16404, 16488, 16604, 16644, 16676, 16860, 16884, 16936, 16976, 17080, 17160, 17192, 17252, 17272, 17488, 17728, 17764, 18144, 18276, 18304, 18392, 18616, 18624, 18756, 18912, 18936, 18980, 19108, 19448, 19452, 19700, 19756, 19844, 19900, 20028, 20164, 20288, 20296, 20344, 20544, 20736, 20792, 21012, 21160, 21220, 21236, 21516, 21656, 21660, 21864, 21908, 22176, 22252, 22364, 22412, 22544, 22748, 23192, 23316, 23352, 23520, 23528]
+
+
+******正在检测文件目录变化******
+C:\Users\李逸雄\Desktop\新建文件夹 (2)已被创建
+C:\Users\李逸雄\Desktop\新建文件夹 (2)已被重命名为 C:\Users\李逸雄\Desktop\111
+C:\Users\李逸雄\Desktop\111已被修改
+******正在检测电脑相关信息功能******
+2023-06-02 20:49:27
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1685971851.4430804, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=28017.8125, system=61293.64062499977, idle=1961375.75, interrupt=895.140625, dpc=439.796875)
+当前cpu总使用率：2.6%
+内存使用情况:svmem(total=33974296576, available=23354667008, percent=31.3, used=10619629568, free=23354667008)
+磁盘使用情况:sdiskusage(total=446228852736, used=129411489792, free=316817362944, percent=29.0)
+正在运行的PID:[0, 4, 140, 172, 404, 676, 804, 828, 852, 1076, 1080, 1120, 1152, 1172, 1180, 1248, 1296, 1308, 1320, 1328, 1388, 1516, 1600, 1612, 1672, 1832, 1848, 1868, 1884, 1952, 1996, 2020, 2028, 2084, 2172, 2192, 2200, 2224, 2288, 2296, 2312, 2356, 2364, 2504, 2548, 2572, 2788, 2796, 2928, 2944, 3068, 3132, 3152, 3164, 3240, 3292, 3324, 3332, 3344, 3380, 3388, 3480, 3488, 3524, 3556, 3612, 3696, 3844, 3988, 4072, 4160, 4252, 4316, 4364, 4440, 4468, 4492, 4628, 4648, 4660, 4668, 4676, 4708, 4748, 4760, 4940, 5048, 5164, 5196, 5228, 5244, 5308, 5388, 5408, 5428, 5472, 5560, 5572, 5636, 5648, 5652, 5688, 5796, 5860, 5892, 5904, 5912, 5940, 6000, 6032, 6156, 6164, 6172, 6180, 6204, 6248, 6256, 6276, 6292, 6344, 6356, 6360, 6404, 6408, 6420, 6488, 6640, 6672, 6744, 6780, 6848, 6860, 6900, 6932, 6940, 6948, 6952, 6988, 7096, 7104, 7112, 7192, 7212, 7244, 7304, 7308, 7364, 7380, 7444, 7724, 7744, 7752, 7904, 8096, 8168, 8328, 8348, 8380, 8384, 8416, 8568, 8924, 8940, 9184, 9480, 9588, 9736, 9848, 9860, 9940, 10088, 10132, 10168, 10340, 10380, 10404, 10408, 10432, 10508, 10564, 10664, 10696, 10716, 10756, 10776, 10848, 11016, 11088, 11216, 11412, 11480, 11532, 11540, 11588, 11800, 11840, 12104, 12128, 12196, 12248, 12528, 12684, 12820, 12920, 13132, 13236, 13332, 13400, 13592, 13604, 13652, 13672, 13680, 13692, 14048, 14312, 14324, 14468, 14572, 14772, 14916, 14960, 14996, 15016, 15160, 15244, 15256, 15380, 15400, 15672, 15804, 15964, 15992, 16072, 16144, 16224, 16616, 16628, 16708, 16840, 16940, 17244, 17272, 17292, 17380, 17480, 17744, 17896, 17924, 18040, 18100, 18116, 18124, 18160, 18220, 18380, 18596, 18704, 18800, 18808, 19052, 19460, 19520, 19572, 19676, 19908, 20112, 20184, 20288, 20472, 20552, 20720, 20752, 20756, 20904, 20932, 21036, 21100, 21260, 21320, 21984, 22188, 22220, 22276, 22292, 22348]
+
+
+******正在检测文件目录变化******
+C:\Users\李逸雄\Desktop\fsdownload已被删除
+******正在检测电脑相关信息功能******
+2023-06-02 20:49:26
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1685971851.4430804, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=28067.125, system=61314.70312499977, idle=1963926.875, interrupt=896.515625, dpc=441.171875)
+当前cpu总使用率：1.7%
+内存使用情况:svmem(total=33974296576, available=23350059008, percent=31.3, used=10624237568, free=23350059008)
+磁盘使用情况:sdiskusage(total=446228852736, used=129554051072, free=316674801664, percent=29.0)
+正在运行的PID:[0, 4, 140, 172, 404, 676, 804, 828, 852, 1076, 1080, 1120, 1152, 1172, 1180, 1248, 1296, 1308, 1320, 1328, 1388, 1516, 1600, 1612, 1672, 1832, 1848, 1868, 1884, 1996, 2020, 2028, 2084, 2172, 2192, 2200, 2224, 2288, 2296, 2312, 2356, 2364, 2504, 2548, 2572, 2788, 2796, 2928, 2944, 3068, 3132, 3152, 3164, 3240, 3292, 3324, 3332, 3344, 3380, 3388, 3480, 3488, 3524, 3556, 3612, 3696, 3844, 3988, 4072, 4160, 4252, 4364, 4372, 4440, 4468, 4492, 4628, 4648, 4660, 4668, 4676, 4708, 4748, 4760, 4940, 5048, 5164, 5196, 5228, 5244, 5308, 5388, 5408, 5428, 5472, 5560, 5572, 5636, 5648, 5652, 5688, 5796, 5860, 5892, 5912, 5940, 6000, 6032, 6156, 6164, 6172, 6180, 6204, 6248, 6256, 6276, 6292, 6344, 6356, 6360, 6404, 6408, 6420, 6488, 6640, 6672, 6744, 6780, 6848, 6860, 6900, 6932, 6940, 6948, 6952, 6988, 7096, 7104, 7112, 7192, 7212, 7244, 7308, 7380, 7444, 7488, 7724, 7744, 7752, 7904, 8096, 8168, 8328, 8348, 8380, 8384, 8416, 8568, 8924, 8940, 9184, 9480, 9588, 9736, 9848, 9860, 9924, 9940, 10088, 10132, 10168, 10340, 10380, 10404, 10408, 10432, 10508, 10564, 10664, 10696, 10716, 10756, 10776, 10848, 11016, 11088, 11216, 11412, 11480, 11532, 11540, 11588, 11692, 11800, 11840, 12104, 12128, 12196, 12248, 12432, 12528, 12684, 12820, 12920, 13132, 13236, 13332, 13400, 13592, 13604, 13652, 13672, 13680, 13692, 13788, 14048, 14312, 14324, 14468, 14572, 14656, 14772, 14800, 14916, 14960, 14996, 15016, 15160, 15244, 15380, 15400, 15672, 15796, 15804, 15964, 15992, 16072, 16144, 16224, 16616, 16628, 16708, 16840, 16868, 16940, 17244, 17272, 17292, 17380, 17480, 17744, 17896, 17924, 18020, 18040, 18100, 18116, 18124, 18160, 18220, 18380, 18396, 18596, 18704, 18800, 18808, 19460, 19520, 19572, 19648, 19676, 19800, 19908, 20112, 20184, 20288, 20472, 20552, 20720, 20756, 20904, 20932, 21036, 21100, 21260, 21320, 21872, 21984, 22188, 22220, 22276, 22292, 22348]
+
+
+******正在检测文件目录变化******
+C:\Users\李逸雄\Documents\Tencent Files\1783172311\Msg3.0.db-journal已被修改
+C:\Users\李逸雄\Documents\Tencent Files\1783172311\Msg3.0.db-journal已被修改
+C:\Users\李逸雄\Documents\Tencent Files\1783172311\Msg3.0.db已被修改
+C:\Users\李逸雄\AppData\Local\Temp\etilqs_2sal5j9Dxa912M3已被删除
+C:\Users\李逸雄\Documents\Tencent Files\1783172311\Msg3.0.db-journal已被修改
+C:\Users\李逸雄\AppData\Local\Temp已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal已被创建
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage已被修改
+C:\Users\李逸雄\AppData\Roaming\Code已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal已被修改
+C:\Users\李逸雄\AppData\Roaming\Code\User\globalStorage\state.vscdb-journal已被删除
+C:\Users\李逸雄\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\SystemAppData\Helium\UserClasses.dat已被修改
+C:\Users\李逸雄\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\SystemAppData\Helium\User.dat已被修改
+C:\Users\李逸雄\AppData\Local\Packages\3138AweZip.AweZip_ffd303wmbhcjt\SystemAppData\Helium\UserClasses.dat已被修改
+C:\Users\李逸雄\AppData\Local\Packages\3138AweZip.AweZip_ffd303wmbhcjt\SystemAppData\Helium\User.dat已被修改
+******正在检测电脑相关信息功能******
+2023-06-02 20:49:27
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1685971851.4430804, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=28122.515625, system=61337.17187500023, idle=1966195.9687499998, interrupt=898.0, dpc=441.921875)
+当前cpu总使用率：4.7%
+内存使用情况:svmem(total=33974296576, available=23202394112, percent=31.7, used=10771902464, free=23202394112)
+磁盘使用情况:sdiskusage(total=446228852736, used=129529135104, free=316699717632, percent=29.0)
+正在运行的PID:[0, 4, 140, 172, 676, 804, 828, 852, 900, 1076, 1080, 1120, 1152, 1172, 1180, 1248, 1296, 1308, 1320, 1328, 1388, 1516, 1600, 1612, 1672, 1832, 1848, 1868, 1884, 1996, 2020, 2028, 2084, 2124, 2172, 2192, 2200, 2288, 2296, 2312, 2356, 2364, 2504, 2548, 2572, 2788, 2796, 2928, 2944, 3068, 3132, 3152, 3164, 3188, 3240, 3292, 3324, 3332, 3344, 3380, 3388, 3480, 3488, 3524, 3556, 3612, 3696, 3844, 3896, 3988, 4072, 4160, 4252, 4276, 4364, 4440, 4492, 4628, 4648, 4660, 4668, 4676, 4708, 4748, 4760, 4940, 5048, 5164, 5196, 5228, 5244, 5348, 5388, 5408, 5428, 5472, 5560, 5572, 5636, 5648, 5652, 5688, 5796, 5860, 5892, 5900, 5912, 5940, 6000, 6032, 6156, 6164, 6172, 6180, 6204, 6248, 6256, 6276, 6292, 6344, 6356, 6360, 6404, 6408, 6420, 6488, 6640, 6672, 6744, 6780, 6848, 6860, 6900, 6932, 6940, 6948, 6952, 6988, 7096, 7104, 7112, 7192, 7212, 7244, 7308, 7380, 7444, 7488, 7632, 7724, 7744, 7752, 7904, 8096, 8112, 8164, 8328, 8348, 8380, 8408, 8416, 8568, 8924, 8940, 8992, 9184, 9480, 9588, 9848, 9860, 9940, 10088, 10096, 10132, 10168, 10340, 10380, 10404, 10408, 10432, 10564, 10664, 10696, 10716, 10756, 10776, 10848, 11016, 11088, 11216, 11412, 11480, 11532, 11540, 11588, 11692, 11840, 11936, 12104, 12128, 12196, 12248, 12528, 12684, 12820, 12920, 13132, 13236, 13332, 13400, 13460, 13592, 13604, 13652, 13672, 13680, 13692, 13788, 14048, 14312, 14324, 14572, 14772, 14960, 14996, 15016, 15160, 15244, 15380, 15400, 15672, 15804, 15964, 15992, 16072, 16144, 16224, 16248, 16268, 16616, 16628, 16708, 16840, 16940, 17244, 17272, 17292, 17380, 17480, 17744, 17756, 17896, 17924, 18020, 18040, 18100, 18116, 18124, 18220, 18380, 18596, 18704, 18800, 18808, 19260, 19408, 19460, 19520, 19572, 19676, 19908, 20184, 20288, 20472, 20720, 20756, 20904, 20932, 21036, 21100, 21260, 21320, 21872, 21984, 22144, 22188, 22220, 22276, 22292]
+
+
+******正在检测文件目录变化******
+******正在检测电脑相关信息功能******
+2023-06-02 20:49:27
+用户登录信息:[suser(name='李逸雄', terminal=None, host=None, started=1685971851.4430804, pid=None)]
+cpu核心数：12
+cpu详细信息：scputimes(user=28130.640625, system=61339.93750000023, idle=1966527.4531249998, interrupt=898.25, dpc=441.984375)
+当前cpu总使用率：2.2%
+内存使用情况:svmem(total=33974296576, available=23408721920, percent=31.1, used=10565574656, free=23408721920)
+磁盘使用情况:sdiskusage(total=446228852736, used=129530314752, free=316698537984, percent=29.0)
+正在运行的PID:[0, 4, 140, 172, 676, 804, 828, 852, 900, 1076, 1080, 1120, 1152, 1172, 1180, 1248, 1296, 1308, 1320, 1328, 1388, 1516, 1600, 1612, 1672, 1832, 1848, 1868, 1884, 1996, 2020, 2028, 2084, 2124, 2172, 2192, 2200, 2288, 2296, 2312, 2356, 2364, 2504, 2548, 2572, 2788, 2796, 2928, 2944, 3068, 3132, 3152, 3164, 3240, 3292, 3324, 3332, 3344, 3380, 3388, 3480, 3488, 3524, 3556, 3612, 3696, 3844, 3988, 4072, 4160, 4252, 4364, 4440, 4492, 4628, 4648, 4660, 4668, 4676, 4708, 4748, 4760, 4940, 5048, 5164, 5196, 5228, 5244, 5348, 5388, 5408, 5428, 5472, 5560, 5572, 5636, 5648, 5652, 5688, 5796, 5860, 5892, 5900, 5912, 5940, 6000, 6032, 6156, 6164, 6172, 6180, 6204, 6248, 6256, 6276, 6292, 6344, 6356, 6360, 6404, 6408, 6420, 6488, 6588, 6640, 6672, 6744, 6780, 6848, 6860, 6900, 6932, 6940, 6948, 6952, 6988, 7096, 7104, 7112, 7192, 7212, 7244, 7308, 7380, 7444, 7488, 7724, 7744, 7752, 7904, 8096, 8164, 8328, 8348, 8380, 8408, 8416, 8568, 8924, 8940, 8992, 9184, 9480, 9588, 9848, 9860, 9940, 10088, 10132, 10168, 10340, 10380, 10404, 10408, 10432, 10564, 10664, 10696, 10716, 10756, 10776, 10848, 11016, 11088, 11216, 11412, 11480, 11532, 11540, 11588, 11692, 11840, 11936, 12104, 12128, 12196, 12248, 12528, 12684, 12820, 12920, 13132, 13236, 13332, 13400, 13460, 13592, 13604, 13652, 13672, 13680, 13688, 13692, 13788, 14048, 14312, 14324, 14572, 14772, 14960, 14996, 15016, 15160, 15244, 15380, 15400, 15672, 15804, 15964, 15992, 16072, 16144, 16224, 16248, 16268, 16284, 16616, 16628, 16708, 16840, 16940, 17244, 17272, 17292, 17376, 17380, 17480, 17744, 17756, 17896, 17924, 18020, 18040, 18100, 18116, 18124, 18220, 18380, 18596, 18704, 18800, 18808, 19260, 19344, 19408, 19460, 19520, 19572, 19676, 19908, 20184, 20288, 20416, 20472, 20720, 20756, 20904, 20932, 21036, 21100, 21260, 21320, 21872, 21984, 22144, 22188, 22220, 22276, 22292, 22416]
+
+
+******正在检测文件目录变化******
